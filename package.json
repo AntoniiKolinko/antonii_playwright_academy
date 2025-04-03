@@ -1,0 +1,22 @@
+{
+  "name": "antonii_playwright_academy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoniiKolinko/antonii_playwright_academy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoniiKolinko/antonii_playwright_academy/issues"
+  },
+  "homepage": "https://github.com/AntoniiKolinko/antonii_playwright_academy#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  }
+}
