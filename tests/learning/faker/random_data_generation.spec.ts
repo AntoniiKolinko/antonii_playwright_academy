@@ -1,4 +1,4 @@
-import { faker } from "@faker-js/faker/."
+import { faker } from "@faker-js/faker"
 import { test } from "@playwright/test"
 
 test('Testing data generation by Faker', async ({ page }) => {
